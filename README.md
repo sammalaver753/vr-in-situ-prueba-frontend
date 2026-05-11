@@ -7,10 +7,14 @@ NPM: v9.0.0 o superior.
 *Para ejecutar el proyecto, abra dos terminales: una en la carpeta del backend y otra en la carpeta frontend.
 
 *Ejecutar:
-git clone <vr-in-situ-prueba-frontend>
-cd frontend-vris
-npm install
-npm run dev
+
+*git clone <vr-in-situ-prueba-frontend>
+
+*cd frontend-vris
+
+*npm install
+
+*npm run dev
 
 *URL Base: http://localhost:8001/api
 
